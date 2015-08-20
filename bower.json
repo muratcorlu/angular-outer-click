@@ -1,0 +1,22 @@
+{
+  "name": "angular-outer-click",
+  "main": "angular-outer-click.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/muratcorlu/angular-outer-click",
+  "authors": [
+    "Murat Çorlu <muratcorlu@gmail.com>"
+  ],
+  "description": "Angular directive to handle outer click of an element",
+  "keywords": [
+    "angularjs",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
